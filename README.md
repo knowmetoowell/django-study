@@ -1,8 +1,11 @@
 # django-study
 
+## 공식 문서 사이트
 https://docs.djangoproject.com/ko/4.0/intro/
 
 django 공식문서 사이트를 이용하여 장고 기초 공부
+
+## 차례
 
 - Django 훑어보기
 - 빠른 설치 가이드
