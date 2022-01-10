@@ -1,6 +1,7 @@
 # django-study
 
 https://docs.djangoproject.com/ko/4.0/intro/
+
 django 공식문서 사이트를 이용하여 장고 기초 공부
 
 - Django 훑어보기
